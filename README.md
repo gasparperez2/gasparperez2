@@ -2,12 +2,10 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 <h1 align="center">
-  <b>Abhigyan Trips</b>
+  <b>Gaspar Perez</b>
 </h1>
 
-Heya! I'm Abhigyan Tripathi, a student currently living in Mumbai, India. I'm preparing for 
-<a href="https://en.wikipedia.org/wiki/Joint_Entrance_Examination">JEE</a>, 
-and learning programming through small projects  on the side.
+Hola! Me llamo Gaspar, soy de Buenos Aires, Argentina, y soy un full stack developer. Desde chico siempre me interesé en la programacion, pero no fue desde este año que me decidí a estudiar y a dedicarme a esto. Encontré la programación como una pasión, me encanta resolver problemas logicos, es por esto que me dedico más en el Back End.
 
 <br>
 
