@@ -5,17 +5,26 @@
   <b>Gaspar Perez</b>
 </h1>
 
-Hola! Me llamo Gaspar, soy de Buenos Aires, Argentina, y soy un full stack developer. Desde chico siempre me interesé en la programacion, pero no fue desde este año que me decidí a estudiar y a dedicarme a esto. Encontré la programación como una pasión, me encanta resolver problemas logicos, es por esto que me dedico más en el Back End.
+Hola! Me llamo Gaspar, soy de Buenos Aires, Argentina, y soy un full stack developer. Desde chico siempre me interesé en la programacion, pero no fue hasta este año que me decidí a estudiar y a dedicarme a esto. Encontré la programación como una pasión, me encanta resolver problemas logicos, es por esto que me dedico más en el Back End.
 
 <br>
 
-<p>
+<br />
+<h2 align="center">Languages and Tools:</h2>
 <div align="center">
-  <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
-  <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
+•Javascript
+•React
+•Redux
+•NodeJs
+•PostgreSQL
+•Express
+•Sequelize
+•Postman
+•Git
+•HTML
+•CSS
 </div>
-</p>
+<br></br>
 
 ```python
 class AbhigyanTrips():
