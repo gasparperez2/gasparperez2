@@ -1,6 +1,5 @@
 <h3 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
 <h1 align="center">
   <b>Gaspar Perez</b>
 </h1>
@@ -55,14 +54,14 @@ Gaspar = new Developer()
 
 <br/>
 <p align="left">
-  <a href="https://gasparperez2.dev/">
+  <a href="https://github.com/gasparperez2">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=gasparperez2&show_icons=true&theme=gruvbox&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=gasparperez2&theme=gruvbox&hide_border=true" />
   </a>
 </p>
 <br>
 
-[![Gaspar Perez' Activity Graph](https://activity-graph.herokuapp.com/graph?username=gasparperez2&custom_title=Abhigyan%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://gasparperez2.dev)
+[![Gaspar Perez' Activity Graph](https://activity-graph.herokuapp.com/graph?username=gasparperez2&custom_title=Gaspar%20Perez's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/gasparperez2)
 
 ------
 
