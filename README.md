@@ -67,6 +67,6 @@ const Gaspar = new Developer()
 ## Contact
 
 <div align="center">
-    <img width="49.5%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" height="50" width="50"/>
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=gasparperez2&theme=gruvbox&hide_border=true" />
 </div>
