@@ -40,21 +40,16 @@ Hola! Me llamo Gaspar, soy de Buenos Aires, Argentina, y soy un full stack devel
 </div>
 <br />
 
-```python
-class AbhigyanTrips():
-    
-  def __init__(self):
-    self.name = "Abhigyan Tripathi";
-    self.username = "abhigyantrips";
-    self.location = "Mumbai, India";
-    self.twitter = "@abhigyantrips";
-    self.web = "https://abhigyantrips.dev";
-  
-  def __str__(self):
-    return self.name
-
-if __name__ == '__main__':
-    me = AbhigyanTrips()
+```javascript
+class Developer {
+    constructor(name, username, location, linkedin) {
+        this.name = name;
+        this.username = name;
+        this.location = "Buenos Aires, Argentina";
+        this.linkedin = "https://www.linkedin.com/in/gaspar-perez-9006a5239/";
+    }
+}
+Gaspar = new Developer("Gaspar Perez", "gasparperez2", "Buenos Aires, Argentina", "https://www.linkedin.com/in/gaspar-perez-9006a5239/")
 ```
 
 <div align="center">
