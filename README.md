@@ -55,7 +55,7 @@ const Gaspar = new Developer()
 <br/>
 <p align="left">
   <a href="https://github.com/gasparperez2">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=gasparperez2&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=gasparperez2&show_icons=true&theme=gruvbox&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=gasparperez2&theme=gruvbox&hide_border=true" />
   </a>
 </p>
@@ -66,3 +66,7 @@ const Gaspar = new Developer()
 
 ## Contact
 
+<div>
+    <img width="49.5%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=gasparperez2&theme=gruvbox&hide_border=true" />
+</div>
