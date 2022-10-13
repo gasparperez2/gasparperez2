@@ -67,6 +67,10 @@ const Gaspar = new Developer()
 ## Contact
 
 <div align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" height="50" width="50"/>
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" height="50" width="45" />
+    <a href="https://www.linkedin.com/in/gaspar-perez-9006a5239/">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" height="50" width="50"/>
+    </a>
+    <a href="mailto:gasparperez171@gmail.com">
+      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" height="50" width="45" />
+    </a>
 </div>
