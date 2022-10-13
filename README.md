@@ -51,27 +51,21 @@ class Developer {
 Gaspar = new Developer()
 ```
 
-<div align="center">
-  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
-    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
-  </a>
-</div>
-
 ## My Statistics
 
 <br/>
 <p align="left">
-  <a href="https://abhigyantrips.dev/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=abhigyantrips&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhigyantrips&theme=gruvbox&hide_border=true" />
+  <a href="https://gasparperez2.dev/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=gasparperez2&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=gasparperez2&theme=gruvbox&hide_border=true" />
   </a>
 </p>
 <br>
 
-[![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=abhigyantrips&custom_title=Abhigyan%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://abhigyantrips.dev)
+[![Gaspar Perez' Activity Graph](https://activity-graph.herokuapp.com/graph?username=gasparperez2&custom_title=Abhigyan%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://gasparperez2.dev)
 
 ------
 
-Credit: [abhigyantrips](https://github.com/abhigyantrips)
+Credit: [gasparperez2](https://github.com/gasparperez2)
 
 Last Edited on: 24/12/2021
