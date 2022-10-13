@@ -42,14 +42,14 @@ Hola! Me llamo Gaspar, soy de Buenos Aires, Argentina, y soy un full stack devel
 
 ```javascript
 class Developer {
-    constructor(name, username, location, mail) {
-        this.name = name;
-        this.username = username;
-        this.location = location;
-        this.mail = mail;
+    constructor() {
+        this.name = "Gaspar Perez";
+        this.username = "gasparperez2";
+        this.location = "Buenos Aires, Argentina";
+        this.mail = "gasparperez171@gmail.com";
     }
 }
-Gaspar = new Developer("Gaspar Perez", "gasparperez2", "Buenos Aires, Argentina", "gasparperez171@gmail.com")
+Gaspar = new Developer()
 ```
 
 <div align="center">
