@@ -47,7 +47,7 @@ class Developer {
         this.mail = "gasparperez171@gmail.com";
     }
 }
-Gaspar = new Developer()
+const Gaspar = new Developer()
 ```
 
 ## My Statistics
