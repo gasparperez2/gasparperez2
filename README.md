@@ -12,13 +12,12 @@ Hola! Me llamo Gaspar, soy de Buenos Aires, Argentina, y soy un full stack devel
 <h2 align="center">Languages and Tools:</h2>
 <div align="center">
 •Javascript
-•React
-•Redux
 •NodeJs
-•PostgreSQL
 •Express
 •Sequelize
-•Postman
+•PostgreSQL
+•React
+•Redux
 •Git
 •HTML
 •CSS
@@ -57,14 +56,6 @@ Gaspar = new Developer()
     <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
   </a>
 </div>
-
-<!--
-<div align="center">
-  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
-    <img src="https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark" width="240px">
-  </a>
-</div>
--->
 
 ## My Statistics
 
