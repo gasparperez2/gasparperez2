@@ -62,9 +62,3 @@ const Gaspar = new Developer()
 <br>
 
 [![Gaspar Perez' Activity Graph](https://activity-graph.herokuapp.com/graph?username=gasparperez2&custom_title=Gaspar%20Perez's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/gasparperez2)
-
-------
-
-Credit: [gasparperez2](https://github.com/gasparperez2)
-
-Last Edited on: 24/12/2021
