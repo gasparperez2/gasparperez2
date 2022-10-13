@@ -6,7 +6,7 @@ Hello, I am full stack developer, working on multiple open source projects, main
 -------------------
 
 ## Contact
-<a href="https://www.instagram.com/LachlanDev/">![Linkedin](https://pngimg.com/uploads/linkedIn/linkedIn_PNG34.png?style=for-the-badge&logo=Instagram&logoColor=white)</a>
+<a href="https://www.instagram.com/LachlanDev/">![Linkedin](https://pngimg.com/uploads/linkedIn/linkedIn_PNG34.png?style=for-the-badge&logo=Linkedin&logoColor=white&size=10px)</a>
 
 -------------------
 
