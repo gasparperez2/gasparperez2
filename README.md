@@ -48,9 +48,6 @@ Hola! Me llamo Gaspar, soy de Buenos Aires, Argentina, y soy un full stack devel
 </p>
 <br>
 
-[![Gaspar Perez' Activity Graph](https://activity-graph.herokuapp.com/graph?username=gasparperez2&custom_title=Gaspar%20Perez's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/gasparperez2)
-
-
 ## Contact
 
 <div align="center">
