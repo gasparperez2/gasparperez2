@@ -1,10 +1,3 @@
-<h3 align="center">
-<h1 align="center">
-  <b>Gaspar Perez</b>
-</h1>
-
-<br>
-
 <h2 align="center">Languages and Tools:</h2>
 <div align="center">
 •Javascript
