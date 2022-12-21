@@ -3,8 +3,6 @@
   <b>Gaspar Perez</b>
 </h1>
 
-Hola! Me llamo Gaspar, soy de Buenos Aires, Argentina, y soy un full stack developer. Desde chico siempre me interesé en la programacion, pero no fue hasta este año que me decidí a estudiar y a dedicarme a esto. Encontré la programación como una pasión y me encanta resolver problemas logicos, es por esto que me dedico más en el Back End.
-
 <br>
 
 <h2 align="center">Languages and Tools:</h2>
